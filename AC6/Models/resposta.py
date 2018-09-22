@@ -1,0 +1,5 @@
+Resposta = {
+    'Status': '',
+    'Mensagem': '',
+    'Dados': ''
+}
